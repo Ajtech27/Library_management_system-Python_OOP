@@ -71,7 +71,7 @@ library_management/
 ## 🚀 Installation
 
 ### Prerequisites
-- Python 3.8 or higher installed on your system
+- Python 3.1 or higher installed on your system
 - Git (optional, for cloning the repository)
 
 ### Steps
