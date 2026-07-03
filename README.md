@@ -60,12 +60,12 @@ The project is built entirely with Python and follows **clean code principles**,
 
 ## 📁 Project Structure
 
--library_management/
--│
--├── library_item.py # Defines `LibraryItem` (ABC) with abstract methods, plus `Book` and `DVD` concrete classes.
--├── library.py # Defines the `Library` class that manages items, users, and transactions.
--├── main.py # Demonstrates all features with sample data and outputs.
--├── README.md # Project documentation (this file)
+-library_management/  
+-│  
+-├── library_item.py # Defines `LibraryItem` (ABC) with abstract methods, plus `Book` and `DVD` concrete classes.  
+-├── library.py # Defines the `Library` class that manages items, users, and transactions.  
+-├── main.py # Demonstrates all features with sample data and outputs.  
+-├── README.md # Project documentation (this file)  
 -├── user.py # Defines `User` (ABC) with abstract methods, plus `Member` and `Librarian` concrete classes.
 
 ---
@@ -138,33 +138,31 @@ Library now has 4 items.
 ---
 ## 🧠 OOP Concepts Demonstrated
 
-Concept Implementation File
-Abstraction LibraryItem and User as Abstract Base Classes library_item.py, user.py
-Inheritance Book and DVD inherit from LibraryItem; Member and Librarian inherit from User library_item.py, user.py
-Polymorphism get_item_type() and get_loan_period() behave differently per subclass library_item.py
-Encapsulation _items, _users, _transaction_log with controlled access library.py
-Property Decorators @property, @due_date.setter for controlled attribute access library_item.py
-Type Hints : str, -> List[Book], Optional[LibraryItem] All files
+Concept Implementation File  
+Abstraction LibraryItem and User as Abstract Base Classes library_item.py, user.py  
+Inheritance Book and DVD inherit from LibraryItem; Member and Librarian inherit from User library_item.py, user.py  
+Polymorphism get_item_type() and get_loan_period() behave differently per subclass library_item.py  
+Encapsulation _items, _users, _transaction_log with controlled access library.py  
+Property Decorators @property, @due_date.setter for controlled attribute access library_item.py  
+Type Hints : str, -> List[Book], Optional[LibraryItem] All files  
 Magic Methods __str__, __repr__, __len__, __eq__, __hash__, __contains__, __getitem__ library_item.py, library.py
 
 ---
 
 ## 🔮 Future Improvements
 
-· Data Persistence: Save library state to JSON or SQLite
-· Fine Calculation: Automatically calculate and apply fines for overdue items
-· Search Features: Search by author, genre, or publication year
-· Unit Tests: Add comprehensive test coverage with pytest
-· Web Interface: Build a simple Flask or FastAPI frontend
-· Email Notifications: Send due date reminders to members
-· Reservation System: Allow members to reserve items that are checked out
+· Data Persistence: Save library state to JSON or SQLite  
+· Fine Calculation: Automatically calculate and apply fines for overdue items  
+· Unit Tests: Add comprehensive test coverage with pytest  
+· Web Interface: Build a simple Flask or FastAPI frontend  
+· Email Notifications: Send due date reminders to members  
+· Reservation System: Allow members to reserve items that are checked out  
 · Reporting: Generate reports on popular items, member activity, etc.
 
 ---
 
 ## 📊 Key Skills Demonstrated
-
-Skill Evidence  
+    
 Object-Oriented Programming Complete OOP architecture with inheritance, abstraction, and polymorphism  
 Clean Code Type hints, meaningful variable names, modular structure  
 Problem Solving Complex business logic (borrowing, returns, overdue detection)  
@@ -181,7 +179,7 @@ Version Control Git-friendly structure
 
 ## 👨‍💻 Author
 
-Joseph Afolayan
+Joseph Afolayan  
 · 📧 ajtech012@gmail.com  
 · Twitter/X: @ajtech27  
 · LinkedIn: linkedin.com/in/afolayan-joseph
