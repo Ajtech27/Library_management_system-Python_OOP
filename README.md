@@ -12,7 +12,7 @@ A comprehensive **Object-Oriented Programming (OOP)** project built in Python th
 - [Code Examples](#code-examples)
 - [OOP Concepts Demonstrated](#oop-concepts-demonstrated)
 - [Future Improvements](#future-improvements)
-- [Key Skills Demonstrated](#Key Skills Demonstrated)
+- [Key Skills Demonstrated](#Key-Skills-Demonstrated)
 - [Author](#author)
 
 ---
@@ -68,6 +68,7 @@ library_management/
 ├── README.md # Project documentation (this file)
 ├── user.py # Defines `User` (ABC) with abstract methods, plus `Member` and `Librarian` concrete classes.
 
+---
 ## 🚀 Installation
 
 ### Prerequisites
@@ -87,9 +88,10 @@ library_management/
     -Open the files in VS Code or any Python IDE
     -Experiment with the main.py script
 
-
+---
 ## 💻 Usage
 
+```
 Quick Start
 
 from library_item import Book
@@ -111,7 +113,7 @@ library.register_user(member)
 member.borrow_item(book)
 print(book) # Shows checked out with due date
 ```
-
+---
 Example Output
 
 ```
@@ -133,7 +135,7 @@ Added 'Deep Learning' to the library.
 Library now has 4 items.
 ```
 
-
+---
 ## 🧠 OOP Concepts Demonstrated
 
 Concept Implementation File
@@ -183,7 +185,7 @@ Version Control Git-friendly structure
 Joseph Afolayan
 
 · 📍 Lagos, Nigeria
-· 📧 josephafolayan012@gmail.com
+· 📧 ajtech012@gmail.com
 
 
 🔗 Connect With Me
