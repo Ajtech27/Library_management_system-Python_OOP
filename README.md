@@ -81,10 +81,10 @@ The project is built entirely with Python and follows **clean code principles**,
    -git clone https://github.com/Ajtech27/library-management-system.git
    -cd library-management-system
 
-2. **Run the program**
-    python main.py
+3. **Run the program**
+   python main.py
 
-3. **Explore the code**
+5. **Explore the code**
     -Open the files in VS Code or any Python IDE
     -Experiment with the main.py script
 
@@ -162,29 +162,28 @@ Magic Methods __str__, __repr__, __len__, __eq__, __hash__, __contains__, __geti
 
 ---
 
-## 🙏 Acknowledgments
+## 📊 Key Skills Demonstrated
 
-· Built as part of my journey from Data Analysis → AI Engineering
-· Special thanks to the Python community for excellent documentation and learning resources
+Skill Evidence  
+Object-Oriented Programming Complete OOP architecture with inheritance, abstraction, and polymorphism  
+Clean Code Type hints, meaningful variable names, modular structure  
+Problem Solving Complex business logic (borrowing, returns, overdue detection)  
+Documentation This README, inline comments, and docstrings  
+Version Control Git-friendly structure
 
 ---
 
-## 📊 Key Skills Demonstrated
+## 🙏 Acknowledgments
 
-Skill Evidence
-Object-Oriented Programming Complete OOP architecture with inheritance, abstraction, and polymorphism
-Clean Code Type hints, meaningful variable names, modular structure
-Problem Solving Complex business logic (borrowing, returns, overdue detection)
-Documentation This README, inline comments, and docstrings
-Version Control Git-friendly structure
+· Built as part of my journey from Data Analysis → AI Engineering
 
 ---
 
 ## 👨‍💻 Author
 
 Joseph Afolayan
-· 📧 ajtech012@gmail.com
-· Twitter/X: @ajtech27
+· 📧 ajtech012@gmail.com  
+· Twitter/X: @ajtech27  
 · LinkedIn: linkedin.com/in/afolayan-joseph
 
 
