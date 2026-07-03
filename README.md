@@ -60,13 +60,13 @@ The project is built entirely with Python and follows **clean code principles**,
 
 ## 📁 Project Structure
 
-library_management/
-│
-├── library_item.py # Defines `LibraryItem` (ABC) with abstract methods, plus `Book` and `DVD` concrete classes.
-├── library.py # Defines the `Library` class that manages items, users, and transactions.
-├── main.py # Demonstrates all features with sample data and outputs.
-├── README.md # Project documentation (this file)
-├── user.py # Defines `User` (ABC) with abstract methods, plus `Member` and `Librarian` concrete classes.
+-library_management/
+-│
+-├── library_item.py # Defines `LibraryItem` (ABC) with abstract methods, plus `Book` and `DVD` concrete classes.
+-├── library.py # Defines the `Library` class that manages items, users, and transactions.
+-├── main.py # Demonstrates all features with sample data and outputs.
+-├── README.md # Project documentation (this file)
+-├── user.py # Defines `User` (ABC) with abstract methods, plus `Member` and `Librarian` concrete classes.
 
 ---
 ## 🚀 Installation
@@ -78,8 +78,8 @@ library_management/
 ### Steps
 
 1. **Clone the repository**
-   git clone https://github.com/Ajtech27/library-management-system.git
-   cd library-management-system
+   -git clone https://github.com/Ajtech27/library-management-system.git
+   -cd library-management-system
 
 2. **Run the program**
     python main.py
@@ -183,19 +183,9 @@ Version Control Git-friendly structure
 ## 👨‍💻 Author
 
 Joseph Afolayan
-
-· 📍 Lagos, Nigeria
 · 📧 ajtech012@gmail.com
-
-
-🔗 Connect With Me
-
-I'm actively transitioning into AI Engineering. If you have feedback, collaboration ideas, or job opportunities, feel free to reach out!
-
 · Twitter/X: @ajtech27
 · LinkedIn: linkedin.com/in/afolayan-joseph
-· GitHub: github.com/Ajtech27
 
 
-```
 
