@@ -180,9 +180,10 @@ Version Control Git-friendly structure
 ## 👨‍💻 Author
 
 Joseph Afolayan  
-· 📧 ajtech012@gmail.com  
-· Twitter/X: @ajtech27  
-· LinkedIn: linkedin.com/in/afolayan-joseph
+· [Gmail](ajtech012@gmail.com)  
+· [Twitter/X](@ajtech27)  
+· [LinkedIn](linkedin.com/in/afolayan-joseph)
+
 
 
 
